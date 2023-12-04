@@ -1,0 +1,13 @@
+Revert "Added exclamation mark to "Validation error""
+
+This reverts commit ba1339e6c58fe80a87e84887b52bd17b19d4188e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   utils/UserUtil.js
+#
